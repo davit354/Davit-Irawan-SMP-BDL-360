@@ -1,7 +1,6 @@
 # Chapter4
 
-Inside The Sphere
-Modify by Davit Irawan 2113025022
+ Davit Irawan 2113025022
 
 <a href="https://michael-mcanally.medium.com/my-360-mind-place-web-app-for-caputuring-immersive-vr-moments-free-open-source-code-295e4f9fbdf0">Free article Medium</a>
 <br><br>
